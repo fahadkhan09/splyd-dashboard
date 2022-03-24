@@ -1,0 +1,39 @@
+form.MuiBox-root.css-xn6ruc {
+    // padding: 20px;
+
+    .form-wrap {
+        background: #1e2a34;
+        margin: 0 auto;
+        width: 90%;
+        padding: 10px 20px;
+        border-radius: 20px;
+        h3 {
+            color: #fff;
+        }
+        .MuiOutlinedInput-root {
+            border: 1px solid #6d757b;
+            color: #bdc3c7;
+            padding: 5px 0px;
+            height: 40px;
+            margin-bottom: 15px;
+            fieldset{
+                border: none;
+                height: 100%;
+                padding: 0;
+
+            }
+        }
+        
+        .btn-wrap {
+            display: flex;
+            button {
+                margin-left: 5px;
+                background: #42c2b9;
+                color: #ffff;
+                padding: 0px 20px;
+                border-radius: 5px;
+                height: 40px;
+            }
+        }
+    }
+}
